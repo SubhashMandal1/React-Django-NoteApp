@@ -12,7 +12,7 @@ git clone https://github.com/SubhashMandal1/React-Django-NoteApp.git
 
 --> Move into the directory where we have the project files : 
 ```bash
-cd Django-React-NotesApp
+cd React-Django-NoteApp
 
 ```
 
